@@ -3,6 +3,10 @@ body {
     font-family: 'JetBrains Mono', sans-serif;
 }
 
+h1 {
+    color: black;
+    margin-bottom: 20px;
+}
 .nav {
     background: #1a1a1a;
     color: white;
