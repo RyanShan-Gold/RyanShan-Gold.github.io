@@ -1,11 +1,14 @@
 body {
     margin: 0;
     font-family: 'JetBrains Mono', sans-serif;
+    padding-top: 60px;
 }
 
+
+
 .nav {
-    background: #1a1a1a;
-    color: black;
+    background: #000000;
+    color: white;
     padding: 14px 20px;
     display: flex;
     align-items: center;
