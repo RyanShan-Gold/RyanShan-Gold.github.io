@@ -18,6 +18,24 @@ body {
     right: 0;
 }
 
+.post {
+    margin-bottom: 40px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #333;
+}
+
+.post h2 {
+    font-family: 'JetBrains Mono', sans-serif;
+    font-size: 26px;
+    margin-bottom: 8px;
+}
+
+.post .date {
+    font-size: 14px;
+    opacity: 0.6;
+    margin-bottom: 16px;
+}
+
 .nav img {
     height: 100px;
     margin-left: 300px;
@@ -26,7 +44,7 @@ body {
 .nav-links {
     display: flex;
     gap: 80px;  
-    margin-left:100px;
+    margin-left: 100px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
