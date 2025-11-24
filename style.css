@@ -26,6 +26,7 @@ body {
 .nav-links {
     display: flex;
     gap: 80px;  
+    margin-left:100px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
