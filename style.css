@@ -7,15 +7,12 @@ body {
 
 
 .nav {
-    background: #000000;
+    background: #000;
     color: white;
     padding: 14px 20px;
     display: flex;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
     align-items: center;
     gap: 40px;
-    justify-content: center;
     position: fixed;
     top: 0;
     left: 0;
