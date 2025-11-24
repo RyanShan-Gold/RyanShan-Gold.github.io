@@ -8,13 +8,16 @@ body {
     color: white;
     padding: 14px 20px;
     display: flex;
+    align-items: center;
     gap: 20px;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
 }
-
+.nav img {
+    height: 28px;
+}
 .nav a {
     color: white;
     text-decoration: none;
