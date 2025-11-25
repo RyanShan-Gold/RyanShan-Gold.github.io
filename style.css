@@ -45,6 +45,7 @@ body {
     display: flex;
     align-items: flex-start;
     gap: 30px;
+    line-height: 1.8;
 }
 
 .about-img {
