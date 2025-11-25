@@ -74,12 +74,14 @@ body {
 .page {
     padding: 80px 20px;
     max-width: 800px;
+    margin: auto;
     margin-bottom: 10px;
 }
 
 .qa {
     padding: 80px 20px;
     max-width: 800px;
+    margin: auto;
     margin-top: 10px;
 }
 
