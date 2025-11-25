@@ -76,3 +76,16 @@ body {
     max-width: 800px;
     margin: auto;
 }
+
+.qa {
+    padding: 80px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.questions {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    line-height: 1.8;
+}
