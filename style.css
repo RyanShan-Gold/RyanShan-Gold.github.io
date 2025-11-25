@@ -46,7 +46,6 @@ body {
     align-items: flex-start;
     gap: 30px;
     line-height: 1.8;
-    margin-bottom: 10px;
 }
 
 .about-img {
@@ -75,13 +74,13 @@ body {
 .page {
     padding: 80px 20px;
     max-width: 800px;
-    margin: auto;
+    margin-bottom: 10px;
 }
 
 .qa {
     padding: 80px 20px;
     max-width: 800px;
-    margin: auto;
+    margin-top: 10px;
 }
 
 .questions {
