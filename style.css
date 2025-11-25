@@ -41,17 +41,17 @@ body {
     margin-left: 300px;
 
 }
-.about-wrap {
+.about-row {
     display: flex;
     align-items: flex-start;
-    gap: 20px;
+    gap: 30px;
 }
 
 .about-img {
-    width: 200px;
-    height: auto;
+    width: 250px;
     border-radius: 8px;
 }
+
 .nav-links {
     display: flex;
     gap: 80px;  
